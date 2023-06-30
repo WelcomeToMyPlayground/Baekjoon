@@ -7,7 +7,7 @@ public class Main {
 
 		int T = s.nextInt(); 
 		
-		for (int i = 0; i <T; i++) {
+		for (int i = 1; i <= T; i++) {
 			int A = s.nextInt();
 			int B = s.nextInt();
 			System.out.println(A + B);
